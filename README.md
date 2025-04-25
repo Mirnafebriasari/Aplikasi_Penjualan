@@ -1,5 +1,4 @@
 # Aplikasi_Penjualan
-# Aplikasi Penjualan
 
 Aplikasi Penjualan ini dibuat menggunakan bahasa pemrograman Java. Aplikasi ini memungkinkan pengguna untuk menambahkan produk ke dalam transaksi, menghitung total harga, dan memberikan diskon berdasarkan jenis pelanggan (member atau umum).
 
